@@ -1,5 +1,5 @@
 This is a boilerplate for solving many classification based tasks.
-Code is written for MNIST database but will enough hyperparameter tuning, it works for other databases as well.
+Code is written for MNIST database but with enough hyperparameter tuning, it works for other databases as well.
 I have included one of good model that I trained using this.
 
 
